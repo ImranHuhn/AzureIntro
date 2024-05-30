@@ -71,12 +71,12 @@
   <img src="https://i.imgur.com/aiaK7iT.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Navigate: Type "All resources" in the search bar and click the icon. Yellow-highlighted text confirms you are on the correct page.
-2.  Create Button: Commonly used to add new resources.
-3.  Refresh Button: Update the dashboard if new resources don’t appear immediately.
-4.  Create Button Alternative: If "All Resources" is empty, an alternative create button will appear.
-5.  Bell Icon: View notifications and build status.
-6.  Delete Button: Remove existing resources.
+1.  <b>Navigate: </b>Type "All resources" in the search bar and click the icon. Yellow-highlighted text confirms you are on the correct page.
+2.  <b>Create Button: </b>Commonly used to add new resources.
+3.  <b>Refresh Button: </b>Update the dashboard if new resources don’t appear immediately.
+4.  <b>Create Button Alternative: </b>If "All Resources" is empty, an alternative create button will appear.
+5.  <b>Bell Icon: </b>View notifications and build status.
+6.  <b>Delete Button: </b>Remove existing resources.
 
 <h2>Resource Groups Section</h2>
 
@@ -93,12 +93,12 @@
   <img src="https://i.imgur.com/oVbGAba.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Just like in the previous section, type in the search bar “Resource groups.”
-2.  This is the create button to create a resource group so services can communicate with each other.
-3.  This is the refresh button to update the front end of the dashboard.
-4.  This create button is another way to create a resource group if it is empty.
-5.  This is the bell icon for notifications on the status of creating a resource group.
-6.  When you click on individual resource groups, a delete option should appear for you to delete that specific resource group.
+1.  <b>Navigate: </b>To find your way, enter "Resource groups" into the search bar and select the corresponding icon. Confirmation of being on the correct page is indicated by highlighted text in yellow.
+2.  <b>Create Button: </b>Used to create a resource group for inter-service communication.
+3.  <b>Refresh Button: </b>Updates the dashboard frontend.
+4.  <b>Alternative Create Button: </b>Appears when the resource group list is empty.
+5.  <b>Bell Icon: </b>Notifications for resource group creation status.
+6.  <b>Delete Option: </b>Appears when clicking on individual resource groups to remove them.
 
 <h2>Virtual Networks Section</h2>
 
@@ -115,12 +115,12 @@
   <img src="https://i.imgur.com/X1wBFVP.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Like before, type Virtual networks in the search bar.
-2.  The create button is to create a new virtual network.
-3.  The refresh button is to update the list of existing virtual networks.
-4.  This is the list of existing virtual networks.
-5.  This is the notification button to see the status of the new virtual network that is being created.
-6.  When clicking on an individual vnet, a delete option appears here to be able to remove said vnet.
+1.  <b>Navigate: </b>Enter "Resource groups" into the search bar and click on the corresponding icon. Confirmation that you're on the right page will be shown with text highlighted in yellow.
+2.  <b>Create Button: </b>Creates a new virtual network.
+3.  <b>Refresh Button: </b>Updates the list of existing virtual networks.
+4.  <b>Alternative Create Button: </b>Shows up when there are no items in the resource group list.
+5.  <b>Notification Button: </b>Shows status of new virtual network creation.
+6.  <b>Delete Option: </b>Appears when clicking on an individual virtual network to remove it.
 
 <h2>Virtual Machines Section</h2>
 
@@ -137,16 +137,16 @@
   <img src="https://i.imgur.com/wWeqfYw.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Let’s go to virtual machines by typing it in the search bar.
-2.  This is the create button to create a new virtual machine(VM).
-3.  This is to switch to the classic view–which doesn’t look that much different.
-4.  The refresh button is to update the list of VMs if the one you just created did not appear yet.
-5.  This is another way to create a new VM, but this only appears when no VMs exists.
-6.  This is the notification button that shows the status of the VM you created.
-7.  This is to start the VM if it is off.
-8.  This is to gracefully shut off the VM and turn on the VM.
-9.  Stop is to gracefully shutdown the VM.
-10.  Delete is to remove the VM from the list.
+1.  <b>Navigate: </b>Let's access virtual machines by entering it into the search bar.
+2.  <b>Create Button: </b>This button initiates the creation of a new virtual machine (VM).
+3.  <b>Switch View: </b>This option transitions to the classic view, which bears minimal visual contrast.
+4.  <b>Refresh: </b>Use this button to update the VM list if a newly created one hasn't appeared yet.
+5.  <b>Alternate Creation:</b> This method is available only when no VMs currently exist.
+6.  <b>Notification Bell: </b>This icon provides updates on the status of the VM you've created.
+7.  <b>Start: </b>Activate this button to power on a currently off VM.
+8.  <b>Graceful Shutdown: </b>Use this function to smoothly power off and then on the VM.
+9.  <b>Stop: </b>This option enables a graceful shutdown of the VM.
+10. <b>Delete: </b>Choose this action to remove the VM from the list.
 
 <h2>Network Security Groups Section</h2>
 
@@ -163,12 +163,12 @@
   <img src="https://i.imgur.com/KKXkIpE.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Navigate to Network security with the search bar.
-2.  This button  is to create a new Network Security Groups(NSG).
-3.  This is to update the NSG list if you don’t see the NSG you just created.
-4.  This is another way to create a new NSG only if the NSG list is empty.
-5.  This is to see the status of the NSG you just created.
-6.  A delete button will appear here when clicking on an NSG and give the ability to remove the NSG.
+1.  <b>Navigate: </b>Access Network security using the search bar.
+2.  <b>Create Button: </b>This initiates the creation of a new network security group (NSG).
+3.  <b>Update: </b>This refreshes the NSG list if the one you just created isn't visible.
+4.  <b>Alternate Creation: </b>This is another method to create a new NSG, accessible only when the NSG list is empty.
+5.  <b>Status Check: </b>This is to view the status of the NSG you just created.
+6.  <b>Deletion: </b>A delete button will appear here when clicking on an NSG, allowing you to remove it.
 
 <h2>Users Section</h2>
 
@@ -185,12 +185,12 @@
   <img src="https://i.imgur.com/Nv9hHfR.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Go ahead and go to users through the search bar.
-2.  The new user option is  to create a user.
-3.  Refresh is to update the list view after creating a new user.
-4.  This is the area to see a list of existing users.
-5.  This is the button to see the status of the new user that’s been created.
-6.  This is the delete button to remove a user or multiple users.
+1.  <b>Navigate: </b>Go to "Users" through the search bar.
+2.  <b>New User: </b>This option is for creating a user.
+3.  <b>Refresh: </b>Use this to update the list view after creating a new user.
+4.  <b>Existing Users: </b>This area displays a list of current users.
+5.  <b>Status Check: </b>This button allows you to view the status of the newly created user.
+6.  <b>Delete: </b>This is the delete button to remove a user or multiple users.
 
 <h2>Storage Accounts Section</h2>
 
@@ -207,12 +207,12 @@
   <img src="https://i.imgur.com/RRIp4CJ.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Go to storage accounts.
-2.  You can make a new storage account by clicking on the create button.
-3.  This is to update the list after creating a new storage account.
-4.  This is another way to create a new storage account when there are no other accounts in the list.
-5.  This bell icon is to notify if the storage account have successfully been created.
-6.  This delete button is to remove any storage account you choose.
+1.  <b>Navigate: <b>Head to storage accounts.
+2.  <b>Create Button: <b>Click here to make a new storage account.
+3.  <b>Refresh: <b>Use this to update the list after creating a new storage account.
+4.  <b>Alternate Creation: <b>This provides another method to create a new storage account when the list is empty.
+5.  <b>Notification Bell: <b>This icon notifies if the storage account has been successfully created.
+6.  <b>Delete: <b>Use this button to remove any storage account you choose.
 
 <h2>Cost Management Section</h2>
 
@@ -229,12 +229,12 @@
   <img src="https://i.imgur.com/pcOfTZO.png" height="100%" width="100%" alt="azure portal home"/>
 </p>
 
-1.  Go to cost management.
-2.  Here are the options to either go to cost alerts or budgets.
+1.  <b>Navigate: </b>Go to cost management.
+2.  <b>Left Panel: </b>Here are the options to either go to cost alerts or budgets.
 
-    a. Cost alerts are for alerts that exceed the budget.
+    a. <b>Cost alerts: </b>These trigger when expenses surpass the budget.
     
-    b. Budget are for alerts the is below and closely approaching the budget.
+    b. <b>Budget: </b>These activate when expenses fall below and are nearing the budget limit.
     
     c. We will be focusing on the budget only.
 
