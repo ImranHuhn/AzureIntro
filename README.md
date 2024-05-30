@@ -4,30 +4,30 @@
 
 <h2>TLDR: Exploring Microsoft Azure Essentials</h2>
 
-- <p>Azure Portal Home Page: Your cloud command center.</p> 
-- <p>All Resources: Organize and manage all your digital assets.</p> 
-- <p>Resource Groups: Group resources together for easier management.</p> 
-- <p>Virtual Network: Build your own digital network.</p> 
-- <p>Virtual Machine: Create and control your virtual computer.</p> 
-- <p>Network Security Group: Guard your network with added security.</p> 
-- <p>Users: Manage who accesses your cloud space.</p> 
-- <p>Storage Accounts: Store and manage your digital belongings.</p> 
-- <p>Cost Management: Keep track of your spending and budget wisely.</p> 
+- <p><b>Azure Portal Home Page: </b>Your cloud command center.</p> 
+- <p><b>All Resources: </b>Organize and manage all your digital assets.</p> 
+- <p><b>Resource Groups: </b>Group resources together for easier management.</p> 
+- <p><b>Virtual Network: </b>Build your own digital network.</p> 
+- <p><b>Virtual Machine: </b>Create and control your virtual computer.</p> 
+- <p><b>Network Security Group: </b>Guard your network with added security.</p> 
+- <p><b>Users: </b>Manage who accesses your cloud space.</p> 
+- <p><b>Storage Accounts: </b>Store and manage your digital belongings.</p> 
+- <p><b>Cost Management: </b>Keep track of your spending and budget wisely.</p> 
 
 <h2>How to read each section (in this order)</h2>
 
 <b>Section-Intro</b> 
 
-- <p>Objectives: Each section begins with a description, outlining the goals and key questions to set expectations.</p> 
+- <p><b>Objectives: </b>Each section begins with a description, outlining the goals and key questions to set expectations.</p> 
 
 <b>Image</b> 
 
-- <p>Numbering: Within the images are sequential numbers, with corresponding text explanations directly below each image.</p> 
-- <p>Yellow highlights: Yellow highlights are navigation aids to help identify your current section in the Azure portal.</p> 
+- <p><b>Numbering: </b>Within the images are sequential numbers, with corresponding text explanations directly below each image.</p> 
+- <p><b>Yellow highlights: </b>Yellow highlights are navigation aids to help identify your current section in the Azure portal.</p> 
 
 <b>Text numbers</b> 
 
-- <p>Descriptions: Each number provides a brief explanation of the image directly above it.
+- <p><b>Descriptions: </b>Each number provides a brief explanation of the image directly above it.
 </p> 
 
 <h2>Introduction</h2>
