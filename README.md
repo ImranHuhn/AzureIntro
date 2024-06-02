@@ -46,9 +46,7 @@
 - <p>What buttons are available in the Azure Portal's Homepage?</p>
 - <p>What sections are present in the Azure Portal's Homepage?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/EAJnflM.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![00_homePage](https://github.com/ImranHuhn/AzureIntro/assets/52342912/ab884483-2fe8-43d6-b9ed-5bfc1244b39c)
 
 0.  <b>Access the Portal: </b>Visit portal.azure.com.
 1.  <b>Search Bar: </b>Locate services that Azure offers.
@@ -67,9 +65,7 @@
 - <p>What buttons are included in "All resources"?</p>
 - <p>What sections are found in "All resources"?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/aiaK7iT.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![01_allresources](https://github.com/ImranHuhn/AzureIntro/assets/52342912/6673754a-313d-4dd0-ad21-ad86466b2259)
 
 1.  <b>Navigate: </b>Type "All resources" in the search bar and click the icon. Yellow-highlighted text confirms you are on the correct page.
 2.  <b>Create Button: </b>Commonly used to add new resources.
@@ -89,9 +85,7 @@
 - <p>What buttons does “Resource groups” contain?</p>
 - <p>What sections exist in “Resource groups”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/oVbGAba.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![02_resourcegroup](https://github.com/ImranHuhn/AzureIntro/assets/52342912/2b0d6cc4-97f2-45b8-9e6b-f99a194b5f78)
 
 1.  <b>Navigate: </b>To find your way, enter "Resource groups" into the search bar and select the corresponding icon. Confirmation of being on the correct page is indicated by highlighted text in yellow.
 2.  <b>Create Button: </b>Used to create a resource group for inter-service communication.
@@ -111,9 +105,7 @@
 - <p>What buttons does “Virtual networks” contain?</p>
 - <p>What sections exist in “Virtual networks”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/X1wBFVP.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![03_virtualnetwork](https://github.com/ImranHuhn/AzureIntro/assets/52342912/278f905b-f3d2-4df0-a4c8-88d9ed8bea33)
 
 1.  <b>Navigate: </b>Enter "Resource groups" into the search bar and click on the corresponding icon. Confirmation that you're on the right page will be shown with text highlighted in yellow.
 2.  <b>Create Button: </b>Creates a new virtual network.
@@ -133,9 +125,7 @@
 - <p>What buttons does “Virtual machines” contain?</p>
 - <p>What sections exist in “Virtual machines”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/wWeqfYw.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![04_virtualmachine](https://github.com/ImranHuhn/AzureIntro/assets/52342912/99935880-2890-4b53-97ad-d971892ce3c9)
 
 1.  <b>Navigate: </b>Let's access virtual machines by entering it into the search bar.
 2.  <b>Create Button: </b>This button initiates the creation of a new virtual machine (VM).
@@ -159,9 +149,7 @@
 - <p>What buttons does “Network security groups” contain?</p>
 - <p>What sections exist in “Network security groups”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/KKXkIpE.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![05_networksecuritygroup](https://github.com/ImranHuhn/AzureIntro/assets/52342912/96b14475-f222-4459-8a3d-0a1653a937a7)
 
 1.  <b>Navigate: </b>Access Network security using the search bar.
 2.  <b>Create Button: </b>This initiates the creation of a new network security group (NSG).
@@ -181,9 +169,7 @@
 - <p>What buttons does “Users” contain?</p>
 - <p>What sections exist in “Users”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/Nv9hHfR.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![06_users](https://github.com/ImranHuhn/AzureIntro/assets/52342912/6a270956-6431-41d2-9dd3-f52527326f8c)
 
 1.  <b>Navigate: </b>Go to "Users" through the search bar.
 2.  <b>New User: </b>This option is for creating a user.
@@ -203,9 +189,7 @@
 - <p>What buttons does “Storage accounts” contain?</p>
 - <p>What sections exist in “Storage accounts”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/RRIp4CJ.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![07_storage](https://github.com/ImranHuhn/AzureIntro/assets/52342912/141c736b-5a78-47b9-ad20-124d73ad457b)
 
 1.  <b>Navigate: <b>Head to storage accounts.
 2.  <b>Create Button: <b>Click here to make a new storage account.
@@ -225,9 +209,7 @@
 - <p>What buttons does “Cost management” contain?</p>
 - <p>What sections exist in “Cost management”?</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/pcOfTZO.png" height="100%" width="100%" alt="azure portal home"/>
-</p>
+![08_costmanagement](https://github.com/ImranHuhn/AzureIntro/assets/52342912/9a299df7-58a0-4439-8371-d0a607442aa6)
 
 1.  <b>Navigate: </b>Go to cost management.
 2.  <b>Left Panel: </b>Here are the options to either go to cost alerts or budgets.
